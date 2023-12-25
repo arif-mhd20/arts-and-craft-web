@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1sd7liv*_ga*MjA5MzE5NjA3NC4xNzAzMDk0NTQ2*_ga_3LRZM6TM9L*MTcwMzQyNjk1MS4yNS4xLjE3MDM0Mjk1NzcuMzcuMC4w");
+    width: 100%;
+    height:300px
+}
+
+header h1{
+    font-size: 100px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+.sub-heading h2{
+    background-color:#BB44FF;
+   
+    margin-top: 30px;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+
+main img{
+    margin-top: 10px;
+}
+
+.sub--heading h3{
+    align-items: left;
+    font-weight: bold;
+    margin-top: 20px;
+    
+
+}
+
+.sub--heading p{
+    font-family: Helvetica;
+    margin-top: 10px;
+    
+}
+
+.sub--heading p span{
+    font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
+
+.sub---heading h2{
+    background-color: pink;
+    width: 100%;
+    color: aliceblue;
+    margin-top: 10px;
+}
+
+.sub----heading h3{
+    margin-top: 10px;
+    
+}
+
+.sub----heading p{
+    margin-top: 5px;
+}
+.sub----heading p span{
+font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
+
+.sub-----heading h2{
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: skyblue;
+margin-top: 10px;
+}
+
+.sub------heading h3{
+    text-align: left;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.sub------heading  p{
+    margin-top: 10px;
+    
+}
+
+.sub------heading p span{
+    font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
